@@ -19,3 +19,5 @@ python main.py
 =======
 # asps
 >>>>>>> 7b3473a0ec1f52b0685dd7fa554504f46fcae124
+
+"This is changes made in neuro lab"
